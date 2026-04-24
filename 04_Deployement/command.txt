@@ -1,0 +1,5 @@
+
+cd /Users/pierre-yvesbenevise/Documents/DataEngineer/Projects/automatic_fraud_detection/04_Deployement
+
+docker-compose down
+docker-compose up --build
