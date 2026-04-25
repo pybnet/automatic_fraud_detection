@@ -22,5 +22,5 @@
 *.xls
 *.mov
 Icon?
-
+*links.txt
 __pycache__/
